@@ -16,7 +16,7 @@ def read(*rnames):
 long_description = (
     read('README.rst')
     + '\n' +
-    read('js', 'jquery_scrolltofixed', 'test_scrolltofixed_(jquery_plugin).txt')
+    read('js', 'jquery_scrolltofixed', 'test_scrolltofixed.txt')
     + '\n' +
     read('CHANGES.rst'))
 
